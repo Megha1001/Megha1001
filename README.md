@@ -4,7 +4,7 @@
 👋 Hi, I’m Megha Verma   
 👀 I’m interested in Coding  
 🌱 I’m currently learning DSA and Terraform  
-💞️ I’m looking to collaborate on with other developers and designers  
+💞️ I’m looking to collaborate with other developers and designers  
 📫 How to reach me : meghaverma1001@gmail.com   
 😄 Pronouns : her/She  
 I'm a Java developer with 3 years of experience.
