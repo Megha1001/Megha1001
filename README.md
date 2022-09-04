@@ -9,7 +9,8 @@
 😄 Pronouns : her/She  
 I'm a Java developer with 3 years of experience.
 ## 🔗 Links
-[![Coding in Java](https://img.shields.io/badge/java-coding-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/Coding_in_java)
+[![Coding in Java 7](https://img.shields.io/badge/java-coding-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/Coding_in_java)
+[![Coding in Java 8](https://img.shields.io/badge/java-coding-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/JAVA-8)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-verma-37658315b/)
 
 
@@ -24,5 +25,5 @@ A lot of practices makes a person close to perfect 😊
 
 ## Tech Stack
 
-Core Java, AWS, JavaScript, React, Springboot, REST APIs, SOAP APIs.
+Core Java, AWS, JavaScript, React, Springboot, REST APIs, SOAP APIs, DSA.
 
