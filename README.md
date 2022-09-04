@@ -9,8 +9,8 @@
 😄 Pronouns : her/She  
 I'm a Java developer with 3 years of experience.
 ## 🔗 Links
-[![Coding in Java 7](https://img.shields.io/badge/java-coding-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/Coding_in_java)
-[![Coding in Java 8](https://img.shields.io/badge/java-coding-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/JAVA-8)
+[![Coding in Java 7](https://img.shields.io/badge/java 7-coding-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/Coding_in_java)
+[![Coding in Java 8](https://img.shields.io/badge/java 8-coding-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/JAVA-8)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-verma-37658315b/)
 
 
