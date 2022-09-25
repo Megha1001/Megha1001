@@ -16,7 +16,7 @@ I'm a Java developer with 3 years of experience.
 
 [![System Design](https://img.shields.io/badge/SystemDesign-BrainStorming-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/System-Design)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-verma-37658315b/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-verma-37658315b/)
 
 
 ## 🛠 Skills
