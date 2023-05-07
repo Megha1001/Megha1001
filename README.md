@@ -1,37 +1,36 @@
+# Hi there, I'm Megha Verma 👋
 
-## 🚀 About Me
+## 👀 About Me
+- 🔭 I’m a Java developer with 3+ years of experience.
+- 🌱 I’m currently learning DSA and Terraform.
+- 💞️ I’m looking to collaborate with other developers and designers.
+- 😄 Pronouns: she/her.
 
-👋 Hi, I’m Megha Verma   
-👀 I’m interested in Coding  
-🌱 I’m currently learning DSA and Terraform  
-💞️ I’m looking to collaborate with other developers and designers  
-📫 How to reach me : meghaverma1001@gmail.com   
-😄 Pronouns : her/She  
-I'm a Java developer with 3+ years of experience.
+## 🚀 Skills
+I am solution-oriented, proactive, and love learning new things. My skills include:
+- Core Java
+- AWS
+- JavaScript
+- React
+- Springboot
+- REST APIs
+- SOAP APIs
+- DSA
+- Terraform
+- ffmpeg
+
 ## 🔗 Links
-[![Coding in Java 7](https://img.shields.io/badge/java7-coding-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/Coding_in_java)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-verma-37658315b/)
+- [![Java 7](https://img.shields.io/badge/Java-7-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Megha1001/Coding_in_java)
+- [![Java 8](https://img.shields.io/badge/Java-8-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Megha1001/JAVA-8)
+- [![System Design](https://img.shields.io/badge/System_Design-BrainStorming-yellow?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABPUExURd////z8/Pm5ubp6enr6+vs7Ozv7+/x8fH19fX29vb39/f4+Pj5+fn6+/r6+vz8/Pz9/f3+/v7////wAAAP///wBZrKgAAAAcSURBVBhXY5hh/vx9Dp+HgAAB7OwZTRpfegAAAABJRU5ErkJggg==)](https://github.com/Megha1001/System-Design)
+- [![FFMPEG](https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white)](https://github.com/Megha1001/FFmpeg-MediaTranscoding-Streaming/)
 
-[![Coding in Java 8](https://img.shields.io/badge/java8-coding-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/JAVA-8)
+## 📈 GitHub Stats
+![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megha1001&show_icons=true&theme=radical)
 
+## 🎉 Lessons Learned
+I believe that practice makes perfect, and I am always striving to improve my skills and knowledge.
 
-[![System Design](https://img.shields.io/badge/System_Design-BrainStorming-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Megha1001/System-Design)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-verma-37658315b/)
-
-
-[![FFMPEG](https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white)](https://github.com/Megha1001/FFmpeg-MediaTranscoding-Streaming/)
-
-
-## 🛠 Skills
-Coding, solution oriented, proactive, learning and many more 😃
-
-
-## Lessons Learned
-
-A lot of practices makes a person close to perfect 😊
-
-
-## Tech Stack
-
-Core Java, AWS, JavaScript, React, Springboot, REST APIs, SOAP APIs, DSA.
-
+## 📫 Contact Me
+Feel free to reach out to me at meghaverma1001@gmail.com.
