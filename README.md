@@ -2,7 +2,7 @@
 
 ## 👀 About Me
 - 🔭 I’m a Java developer with 3+ years of experience.
-- 🌱 I’m currently learning DSA and Terraform.
+- 🌱 I’m currently learning AKKA and Kafka.
 - 💞️ I’m looking to collaborate with other developers and designers.
 - 😄 Pronouns: she/her.
 
