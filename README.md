@@ -25,6 +25,8 @@ I am solution-oriented, proactive, and love learning new things. My skills inclu
 - [![Java 8](https://img.shields.io/badge/Java-8-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Megha1001/JAVA-8)
 - [![System Design](https://img.shields.io/badge/System_Design-BrainStorming-yellow?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABPUExURd////z8/Pm5ubp6enr6+vs7Ozv7+/x8fH19fX29vb39/f4+Pj5+fn6+/r6+vz8/Pz9/f3+/v7////wAAAP///wBZrKgAAAAcSURBVBhXY5hh/vx9Dp+HgAAB7OwZTRpfegAAAABJRU5ErkJggg==)](https://github.com/Megha1001/System-Design)
 - [![FFMPEG](https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white)](https://github.com/Megha1001/FFmpeg-MediaTranscoding-Streaming/)
+- [![JUnit5](https://img.shields.io/badge/JUnit5-blue.svg?style=flat)](https://github.com/Megha1001/JUNIT5)
+- [![AKKA](https://img.shields.io/badge/AKKA-blue.svg?style=flat)]([https://github.com/Megha1001/JUNIT5](https://github.com/Megha1001/AKKA))
 
 ## 📈 GitHub Stats
 ![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megha1001&show_icons=true&theme=radical)
