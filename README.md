@@ -1,13 +1,13 @@
 # Hi there, I'm Megha Verma 👋
 
 ## 👀 About Me
-- 🔭 I’m a Java developer with 3+ years of experience.
+- 🔭 I’m a Java developer with 4+ years of experience.
 - 🌱 I’m currently learning AKKA and Kafka.
 - 💞️ I’m looking to collaborate with other developers and designers.
 - 😄 Pronouns: she/her.
 
 ## 🚀 Skills
-I am solution-oriented, proactive, and love learning new things. My skills include:
+I am solution-oriented, pro-active, and love learning new things. My skills include:
 - Core Java
 - AWS
 - JavaScript
@@ -36,3 +36,9 @@ I believe that practice makes perfect, and I am always striving to improve my sk
 
 ## 📫 Contact Me
 Feel free to reach out to me at meghaverma1001@gmail.com.
+
+## 🏢 Work Experience
+
+- Warner Bros discovery (from March, 2023 to Present)
+- Amdocs (June 2019 to April 2023)
+
