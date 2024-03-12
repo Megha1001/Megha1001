@@ -28,9 +28,6 @@ I am solution-oriented, pro-active, and love learning new things. My skills incl
 - [![JUnit5](https://img.shields.io/badge/JUnit5-blue.svg?style=flat)](https://github.com/Megha1001/JUNIT5)
 - [![AKKA](https://img.shields.io/badge/AKKA-blue.svg?style=flat)]([https://github.com/Megha1001/JUNIT5](https://github.com/Megha1001/AKKA))
 
-## 📈 GitHub Stats
-![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megha1001&show_icons=true&theme=radical)
-
 ## 🎉 Lessons Learned
 I believe that practice makes perfect, and I am always striving to improve my skills and knowledge.
 
