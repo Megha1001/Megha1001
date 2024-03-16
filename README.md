@@ -37,5 +37,7 @@ Feel free to reach out to me at meghaverma1001@gmail.com.
 ## 🏢 Work Experience
 
 - Warner Bros discovery (from March, 2023 to Present)
-- Amdocs (June 2019 to April 2023)
+<img src="https://github.com/Megha1001/Megha1001/assets/35575924/36a55f0c-a0a2-4a93-b3c0-d5b5d57165e6" alt="Warner Bros discovery" width="300">
 
+- Amdocs (June 2019 to April 2023)
+<img src="https://github.com/Megha1001/Megha1001/assets/35575924/86a34b15-1ebb-48ce-9fdf-a72cd5e84d12" alt="Amdocs" width="100">
