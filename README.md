@@ -18,6 +18,9 @@ I am solution-oriented, pro-active, and love learning new things. My skills incl
 - DSA
 - Terraform
 - ffmpeg
+- AKKA
+- Docker
+- K8s
 
 ## 🔗 Links
 - [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-verma-37658315b/)
