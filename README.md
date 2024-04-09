@@ -1,10 +1,12 @@
 # Hi there, I'm Megha Verma 👋
 
 ## 👀 About Me
-- 🔭 I’m a Java developer with 4+ years of experience.
-- 🌱 I’m currently learning OTT related technologies
-- 💞️ I’m looking to collaborate with other developers and designers.
+- 🔭 4+ years of experience as a Java developer, building robust and scalable enterprise applications.
+- 🌱 Currently expanding my skillset by learning OTT technologies, focusing on streaming protocols and content delivery networks.
+- 💞️ Passionate about collaborative projects and eager to connect with other developers and designers.
+- Open to contributing to open-source projects and participating in hackathons!
 - 😄 Pronouns: she/her.
+  
 
 ## 🏢 Work Experience
 
