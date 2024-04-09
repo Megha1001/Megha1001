@@ -20,11 +20,11 @@
 ## 🚀 Skills
 - Programming Languages & Frameworks :
 
-  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/java%20(1).png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/SQL_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/soapAPI_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/restApi_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/react.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/AKKA_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/ffmpeg_icon.png" width="60"> 
+  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/java%20(1).png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/SQL_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/soapAPI_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/restApi_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/react.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/AKKA_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/ffmpeg_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JS_icon.png" width="60">
 
 - Frontend Technologies :
   
-    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JS_icon.png" width="60">   <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JSON_icon.png" width="60">   <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/HTML_icon.png" width="60">    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/CSS_icon.png" width="60"> 
+    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JSON_icon.png" width="60">   <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/HTML_icon.png" width="60">    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/CSS_icon.png" width="60"> 
 
 - Databases :
   
