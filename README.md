@@ -45,12 +45,9 @@
 - [![Java 7](https://img.shields.io/badge/Java-7-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Megha1001/Java_Jan2024)
 - [![System Design](https://img.shields.io/badge/System_Design-BrainStorming-yellow?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABPUExURd////z8/Pm5ubp6enr6+vs7Ozv7+/x8fH19fX29vb39/f4+Pj5+fn6+/r6+vz8/Pz9/f3+/v7////wAAAP///wBZrKgAAAAcSURBVBhXY5hh/vx9Dp+HgAAB7OwZTRpfegAAAABJRU5ErkJggg==)](https://github.com/Megha1001/System-Design)
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-verma-37658315b/)
-[<img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/gmail.png" height="40em" align="center" />](meghaverma1001@gmail.com)
-
 ## 🎉 Lessons Learned
 I believe that practice makes perfect, and I am always striving to improve my skills and knowledge.
 
 ## 📫 Contact Me
 Feel free to reach out to me at meghaverma1001@gmail.com.
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-verma-37658315b/)
