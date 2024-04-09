@@ -2,7 +2,7 @@
 
 ## 👀 About Me
 - 🔭 I’m a Java developer with 4+ years of experience.
-- 🌱 I’m currently learning AKKA and Kafka.
+- 🌱 I’m currently learning OTT related technologies
 - 💞️ I’m looking to collaborate with other developers and designers.
 - 😄 Pronouns: she/her.
 
