@@ -21,10 +21,24 @@
   <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/java%20(1).png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/SQL_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/soapAPI_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/restApi_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/react.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/AKKA_icon.png" width="60"> 
 
 - Frontend Technologies :
-
+  
     <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JS_icon.png" width="60">   <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JSON_icon.png" width="60">   <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/HTML_icon.png" width="60">    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/CSS_icon.png" width="60"> 
 
+- Databases :
+  
+    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/Oracle_icon.png" width="60">   <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/MySQL_icon.png" width="60">
 
+- Cloud Stack :
+  
+    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/aws_icon.png" width="60">   <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/Terraform_icon.png" width="60">
+
+- Tools :
+
+    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/WinSCP_icon.png" width="60">      <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/TOAD_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/SQLDeveloper_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/Putty_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/SoapUI_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/Postman_icon.pnghttps://github.com/Megha1001/Megha1001/blob/main/readme-resources/EclipseIDE_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/Intellij_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/GITHub_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/GitLab_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/BeyondComparator_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/WebSphere_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JBOSS_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/kibana_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/kibana_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/Splunk_icon.png" width="60"> 
+
+  
+
+  
 ## 🔗 Learning
 - [![Java 7](https://img.shields.io/badge/Java-7-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Megha1001/Coding_in_java)
 - [![Java 8](https://img.shields.io/badge/Java-8-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Megha1001/JAVA-8)
