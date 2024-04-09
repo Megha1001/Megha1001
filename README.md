@@ -16,20 +16,16 @@
 
 
 ## 🚀 Skills
-I am solution-oriented, pro-active, and love learning new things. My skills include:
-- Core Java
-- AWS
-- JavaScript
-- React
-- Springboot
-- REST APIs
-- SOAP APIs
-- DSA
-- Terraform
-- ffmpeg
-- AKKA
-- Docker
-- K8s
+- Programming Languages & Frameworks :
+
+  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/java%20(1).png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/SQL_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/soapAPI_icon.png" width="60"> 
+ <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/restApi_icon.png" width="60"> 
+ <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/react.png" width="60"> 
+ <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/CSS_icon.png" width="60"> 
+
+- Frontend Technologies :
+    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JS_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JSON_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/HTML_icon.png" width="60">   <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/HTML_icon.png" width="60"> 
+
 
 ## 🔗 Learning
 - [![Java 7](https://img.shields.io/badge/Java-7-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Megha1001/Coding_in_java)
