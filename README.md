@@ -24,7 +24,8 @@
  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/CSS_icon.png" width="60"> 
 
 - Frontend Technologies :
-    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JS_icon.png" width="60"> <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JSON_icon.png" width="60">  <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/HTML_icon.png" width="60">   <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/HTML_icon.png" width="60"> 
+
+    <img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JS_icon.png" width="60"><img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/JSON_icon.png" width="60"><img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/HTML_icon.png" width="60"><img src="https://github.com/Megha1001/Megha1001/blob/main/readme-resources/HTML_icon.png" width="60"> 
 
 
 ## 🔗 Learning
