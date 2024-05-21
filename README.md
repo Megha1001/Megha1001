@@ -7,7 +7,6 @@
 - 💞️ Passionate about collaborative projects and eager to connect with other developers and designers.
 - Open to contributing to open-source projects and participating in hackathons!
 - 😄 Pronouns: she/her.
-  
 
 ## 🏢 Work Experience
 
