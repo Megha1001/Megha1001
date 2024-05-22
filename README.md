@@ -1,6 +1,5 @@
 # Hi there, I'm Megha Verma 👋
 
-
 ## 👀 About Me
 - 🔭 4+ years of experience as a Java developer, building robust and scalable enterprise applications.
 - 🌱 Currently expanding my skillset by learning OTT technologies, focusing on streaming protocols and content delivery networks.
