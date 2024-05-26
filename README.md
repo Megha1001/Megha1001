@@ -8,6 +8,7 @@
 - Open to contributing to open-source projects and participating in hackathons!
 - 😄 Pronouns: she/her.
 
+
 ## 🏢 Work Experience
 
 - Warner Bros discovery (from March, 2023 to Present)
