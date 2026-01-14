@@ -1,49 +1,49 @@
 # Megha Verma
 
 Backend & Distributed Systems Engineer  
-Streaming Platforms • Scalable Services • Java • AWS
+Streaming Platforms • High-Scale Services • Java • AWS
 
-I work on backend systems where **scale, latency, and reliability matter**.
-
----
-
-## Project Highlight
-Built/Improve a **stitching** powering **millions of daily streaming sessions**,  
-designed for high availability, low latency, and safe evolution.
+I work on backend systems where **scale, latency, correctness, and reliability are non-negotiable**.
 
 ---
 
-## Engineering Mindset
-- Prefer simple, predictable systems over clever abstractions
-- Design assuming things will fail
-- Optimize only after measuring
-- Treat observability as a first-class feature
-- Think in trade-offs, not tools
+## One Thing That Defines My Work
+Built a **global manifest stitching service** that serves **millions of streaming sessions every day**,  
+operating under tight latency budgets and high availability requirements.
 
 ---
 
-## Technical Focus
-**Backend & Concurrency:** Java, Akka, REST, SQL  
-**Streaming & Media:** DASH, HLS, SSAI, FFmpeg, SCTE-35  
-**Cloud & Infrastructure:** AWS, Terraform  
-**Messaging & Data:** Kafka, Redis, Oracle, MySQL  
-**Observability:** Grafana, Kibana, Splunk
+## How I Approach Engineering
+- Start with the simplest thing that can work
+- Design for failure before success
+- Make trade-offs explicit and revisitable
+- Prefer systems that are easy to reason about at 3 a.m.
+- Treat observability as part of the design, not an afterthought
 
 ---
 
-## 🏢 Experience
+## Areas I Work In
+**Backend & Concurrency** — Java, Akka, REST, SQL  
+**Streaming & Media Systems** — DASH, HLS, SSAI, FFmpeg, SCTE-35  
+**Distributed Data & Messaging** — Kafka, Redis  
+**Cloud & Infrastructure** — AWS, Terraform  
+**Observability** — Metrics, logs, tracing, dashboards
+
+---
+
+## Experience
 Warner Bros Discovery • Amdocs  
-(Worked on systems operating at real-world scale.)
+Building and operating systems at real-world scale.
 
 ---
 
-## On GitHub
-You’ll find:
-- System design notes and trade-off discussions
-- Backend experiments and refactoring work
-- Learning-driven repositories over polished demos
+## What You’ll Find on My GitHub
+- System design notes and architectural reasoning
+- Backend experiments focused on correctness and performance
+- Refactoring-heavy repositories that show how systems evolve
+- Learning in public, without polishing for show
 
-I optimize for **understanding**, not presentation.
+I value **depth over breadth** and **clarity over cleverness**.
 
 ---
 
@@ -53,4 +53,4 @@ I optimize for **understanding**, not presentation.
 
 ---
 
-> Build systems that are easy to reason about — especially when they break.
+> Build systems that survive growth, failure, and change.
