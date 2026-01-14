@@ -8,7 +8,7 @@ I work on backend systems where **scale, latency, correctness, and reliability a
 ---
 
 ## One Thing That Defines My Work
-Built a **global manifest stitching service** that serves **millions of streaming sessions every day**,  
+Built a **stitching service** that serves **millions of streaming sessions every day**,  
 operating under tight latency budgets and high availability requirements.
 
 ---
